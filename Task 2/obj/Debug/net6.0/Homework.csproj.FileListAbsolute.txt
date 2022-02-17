@@ -1,0 +1,30 @@
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/Homework
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/Homework.deps.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/Homework.runtimeconfig.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/ref/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/bin/Debug/net6.0/Homework.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/ref/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/obj/Debug/net6.0/Homework.genruntimeconfig.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/Homework
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/Homework.deps.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/Homework.runtimeconfig.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/ref/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/bin/Debug/net6.0/Homework.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/ref/Homework.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 2/obj/Debug/net6.0/Homework.genruntimeconfig.cache

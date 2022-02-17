@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.AssemblyInfo.cs
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/Task 28
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/Task 28.deps.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/Task 28.runtimeconfig.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/Task 28.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/ref/Task 28.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/bin/Debug/net6.0/Task 28.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/ref/Task 28.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 28/obj/Debug/net6.0/Task 28.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/Task 6
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/Task 6.deps.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/Task 6.runtimeconfig.json
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/Task 6.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/ref/Task 6.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/bin/Debug/net6.0/Task 6.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.csproj.AssemblyReference.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.AssemblyInfoInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.AssemblyInfo.cs
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.csproj.CoreCompileInputs.cache
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/ref/Task 6.dll
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.pdb
+/Users/stanislav/Desktop/GitBrains/C#/Homework/Task 6/obj/Debug/net6.0/Task 6.genruntimeconfig.cache
